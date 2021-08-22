@@ -1,0 +1,4 @@
+export class PersonTest {
+    id:number
+    name:string
+  }
